@@ -1,0 +1,17 @@
+{
+  "name": "ticketboard-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
